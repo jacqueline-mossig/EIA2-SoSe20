@@ -1,5 +1,5 @@
 html, body {
-    height: 140%;
+    height: 135%;
     width: 100%;
 }
 
@@ -20,7 +20,7 @@ h1{
 #mail{
     width: 95%;
     padding: 1em;
-    height: 150em;
+    height: 235em;
     border-style: solid;
     border-width: 3px;
     color: black;
@@ -73,7 +73,7 @@ p{
 }
 
 #memory{
-    height: 65em;
+    height: 150em;
     border-style: solid;
     border-width: 3px;
     color: black;
@@ -82,7 +82,7 @@ p{
 #timer{
     float: right;
     margin-top: 8em;;
-    margin-right:10em;
+    margin-right:8em;
     width: 15em;
     height: 5em;
     border-style: solid;
