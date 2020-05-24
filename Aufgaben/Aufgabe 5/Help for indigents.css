@@ -1,0 +1,47 @@
+h1, h2, #explanation{
+    text-align: center;
+}
+
+button{
+    margin: 3px;
+    margin-left: 250px;
+}
+
+form{
+    float: left;
+    margin-bottom: 20px; 
+}
+
+#order{
+    position: absolute;
+    padding: 10px;
+    padding-top: 1px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin: 2px;
+    margin-top: 10px;
+    top: 160px;
+    right: 10px;
+    width: 600px;
+    height: 400px;
+}
+
+#total{
+    position: absolute;
+    padding: 10px;
+    padding-top: 1px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin: 2px;
+    margin-top: 5px;
+    top: 600px;
+    right: 10px;
+    width: 600px;
+    height: 40px;
+}
+
+td{
+    padding-left: 155px;
+}
