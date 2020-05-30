@@ -1,0 +1,11 @@
+{
+  "name": "indigents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Aufgaben/Aufgabe 6/Indigents/Client/HelpForIndigents.js"
+  },
+  "author": "jacquelinemossig",
+  "license": "ISC"
+}
